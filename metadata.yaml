@@ -1,0 +1,48 @@
+_repo: The-Works-of-Aphra-BehnVolume-V_29854
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Behn, Aphra
+    aliases:
+    - Behn, Ayfara
+    - Johnson, Aphra
+    - Behn, Aphara
+    - Behn, Afra
+    - Behn, Aphra Amis
+    - Bhen, A. (Aphra)
+    - Behn, Anne
+    birthdate: 1640
+    deathdate: 1689
+    gutenberg_agent_id: '2728'
+    url: http://www.gutenberg.org/2009/agents/2728
+    wikipedia: http://en.wikipedia.org/wiki/Aphra_Behn
+  editor:
+    agent_name: Summers, Montague
+    alias: Summers, Alphonsus Joseph Mary Augustus Montague
+    birthdate: 1880
+    deathdate: 1948
+    gutenberg_agent_id: '9866'
+    url: http://www.gutenberg.org/2009/agents/9866
+description: ''
+gutenberg_issued: '2009-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29854'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- Early modern, 1500-1700'
+tableOfContents: The adventures of the black lady -- The court of the King of Bantam
+  -- The unfortunate happy lady -- The fair jilt -- Oroonoko; or, The royal slave
+  -- Agnes de Castro -- The history of the nun; or, The fair vow-breaker -- The nun;
+  or, The perjur'd beauty -- The lucky mistake -- The unfortunate bride; or, The blind
+  lady a beauty -- The dumb virgin; or, The force of imagination -- The wandering
+  beauty -- The unhappy mistake; or, The impious vow punish'd.
+title: The Works of Aphra Behn, Volume V
+url: http://www.gutenberg.org/ebooks/29854
