@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '9866'
     url: http://www.gutenberg.org/2009/agents/9866
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29854#The-Works-of-Aphra-BehnVolume-V
 gutenberg_issued: '2009-08-30'
 gutenberg_type: Text
 identifiers:
