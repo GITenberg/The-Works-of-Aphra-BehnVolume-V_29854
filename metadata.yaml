@@ -40,6 +40,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'English fiction -- Early modern, 1500-1700'
+- GITenberg
 tableOfContents: The adventures of the black lady -- The court of the King of Bantam
   -- The unfortunate happy lady -- The fair jilt -- Oroonoko; or, The royal slave
   -- Agnes de Castro -- The history of the nun; or, The fair vow-breaker -- The nun;
